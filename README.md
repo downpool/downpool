@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Stacks
 # Can!
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![OracleDB](https://img.shields.io/badge/Oracle-323330?style=for-the-badge&logo=Oracle&logoColor=F80000)
@@ -22,6 +21,6 @@ Here are some ideas to get you started:
 ![React.js](https://img.shields.io/badge/React-323330?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-323330?style=for-the-badge&logo=MySQL&logoColor=4479A1)
 
-
+# NOW
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=downpool&hide=contribs,prs&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=downpool)

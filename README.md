@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 # Can!
 ![javascript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![OracleDB](https://img.shields.io/badge/Oracle-white?style=for-the-badge&logo=Oracle&logoColor=F80000)
+![OracleDB](https://img.shields.io/badge/OracleDB-white?style=for-the-badge&logo=Oracle&logoColor=F80000)
 
 # Will(doing)
 ![Node.js](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=Node.js&logoColor=339933)
-![React.js](https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=61DAFB)
+![React.js](https://img.shields.io/badge/React.js-white?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=MySQL&logoColor=4479A1)
 
 # NOW

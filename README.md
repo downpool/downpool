@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 ![React.js](https://img.shields.io/badge/React.js-white?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=MySQL&logoColor=4479A1)
 
-# NOW
+# Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=downpool&hide=contribs,prs&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=downpool)

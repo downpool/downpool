@@ -13,7 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Stacks
+# Can!
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![OracleDB](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=F80000)
+
+# Will(doing)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=339933)
+![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=4479A1)
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=downpool&hide=contribs,prs&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=downpool)

@@ -13,13 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Can!
-![javascript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![OracleDB](https://img.shields.io/badge/OracleDB-white?style=for-the-badge&logo=Oracle&logoColor=F80000)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![OracleDB](https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 
 # Will(doing)
-![Node.js](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=Node.js&logoColor=339933)
-![React.js](https://img.shields.io/badge/React.js-white?style=for-the-badge&logo=React&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=MySQL&logoColor=4479A1)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+
+## touching..
+![swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 # Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=downpool&hide=contribs,prs&show_icons=true)

@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # Can
 ![OracleDB](https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-![JAVA](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=Java&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-FA7343?style=for-the-badge&logo=Java&logoColor=white)
 
 # Will(doing)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)

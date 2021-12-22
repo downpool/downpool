@@ -12,17 +12,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Can!
+# Using
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Apple](https://img.shields.io/badge/Apple-black?style=for-the-badge&logo=Apple&logoColor=white)
+![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=MacOS&logoColor=white)
+
+# Can
 ![OracleDB](https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+![JAVA](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=Java&logoColor=white)
 
 # Will(doing)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-#3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=Python&logoColor=white)
 
-## touching..
-![swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+## touching
+![Go](https://img.shields.io/badge/Go-#00ADD8?style=for-the-badge&logo=Go&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=white)
 
 # Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=downpool&hide=contribs,prs&show_icons=true)

@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 # Will(doing)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typeScript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
 ## touching
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 # Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=downpool&hide=contribs,prs&show_icons=true)

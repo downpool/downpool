@@ -36,3 +36,4 @@ Here are some ideas to get you started:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=downpool&hide=contribs,prs&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=downpool)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=downpool)](https://solved.ac/downpool/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=downpool_choi)](https://solved.ac/downpool_choi/)

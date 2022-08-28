@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Using
+![swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Apple](https://img.shields.io/badge/Apple-black?style=for-the-badge&logo=Apple&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=MacOS&logoColor=white)
@@ -22,7 +23,6 @@ Here are some ideas to get you started:
 ![JAVA](https://img.shields.io/badge/Java-FA7343?style=for-the-badge&logo=Java&logoColor=white)
 
 # Will(Studying)
-![swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typeScript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)

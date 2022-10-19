@@ -33,5 +33,3 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 # Stats
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=downpool&hide=contribs,prs&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=downpool)

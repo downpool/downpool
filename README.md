@@ -32,4 +32,5 @@ Here are some ideas to get you started:
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=React&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-# Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

@@ -35,8 +35,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   2 hrs 10 mins   █████████████████████████   99.92 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+JavaScript   2 hrs 11 mins   ██████████████████████▓░░   91.33 %
+C++          12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
+Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->

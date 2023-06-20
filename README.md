@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=4bcffa&text=Downpool&fontColor=34e7e4)
+<div align="center"> 
+
 # I learned
+    
 ![swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Apple](https://img.shields.io/badge/Apple-black?style=for-the-badge&logo=Apple&logoColor=white)
@@ -21,6 +24,8 @@ Here are some ideas to get you started:
 </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=downpool&layout=compact)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdownpool%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
+</div>
 <!-- 
 # Can
 ![OracleDB](https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=Oracle&logoColor=white)

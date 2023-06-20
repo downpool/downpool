@@ -13,11 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=4bcffa&text=Downpool&fontColor=34e7e4)
-# Using
+# I learned
 ![swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=Swift&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Apple](https://img.shields.io/badge/Apple-black?style=for-the-badge&logo=Apple&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=MacOS&logoColor=white)
+</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=downpool&layout=compact)
+
 <!-- 
 # Can
 ![OracleDB](https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
